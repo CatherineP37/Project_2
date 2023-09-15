@@ -13,9 +13,6 @@ body {
     background-color: #15494D;
 }
 
-main {
-    background-color: #217479;
-}
 
 h1 {
     font-size: 2em;
@@ -25,8 +22,21 @@ h1 {
     letter-spacing: 0.1em;
 }
 
+p {
+    font-family: Arial;
+    font-size: 1em;
+    text-align: center;
+    color: #ffffff;
+    margin: 10px;
+
+}
+
+main {
+    background-color: #217479;
+    padding: 20px;
+}
+
 .game {
-    background-color: red;
     display: flex;
     flex-wrap: wrap;
     width: 500px;
@@ -35,9 +45,10 @@ h1 {
 .new_game {
     background-color: #15494D;
     color: #ffffff;
-    padding: 10px;
-    margin: 20px auto;
+    padding: 20px 30px 20px 30px;
+    margin: 30px auto 10px auto;
     display: inline-block;
+    font-size: 1em;
 }
 
 .new_game:hover {
