@@ -1,20 +1,56 @@
-h1 {
-    text-align: center;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: Arial;
 }
 
-main {
-    margin: 0 auto;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #15494D;
 }
 
-#container {
-    display: grid;
-    margin: 0 auto;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    background-color: blue;
-    height: 300px;
-    width: 300px;
-    gap: 10px;
-    border: 2px solid black;
+main {
+    background-color: #217479;
+}
+
+h1 {
+    font-size: 2em;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.game {
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.new_game {
+    background-color: #15494D;
+    color: #ffffff;
+    padding: 10px;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+.new_game:hover {
+    background-color: #1D5D61;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: #3DA6AC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #217479;
+    color: transparent;
 }
