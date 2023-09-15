@@ -34,12 +34,14 @@ p {
 main {
     background-color: #217479;
     padding: 20px;
+    margin: 0 auto;
 }
 
 .game {
-    display: flex;
-    flex-wrap: wrap;
-    width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    column-gap: none;
 }
 
 .new_game {
