@@ -42,6 +42,18 @@ main {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     column-gap: none;
+    width: 90%;
+}
+
+.front img {
+    width: 100px;
+    height: 100px;
+}
+
+.back {
+    background-color: #15494D;
+    width: 100%;
+    height: 100%;
 }
 
 .new_game {
@@ -51,6 +63,7 @@ main {
     margin: 30px auto 10px auto;
     display: inline-block;
     font-size: 1em;
+    text-align: center;
 }
 
 .new_game:hover {
@@ -65,5 +78,4 @@ main {
     justify-content: center;
     align-items: center;
     border: 2px solid #217479;
-    color: transparent;
 }
