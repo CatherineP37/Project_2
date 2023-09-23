@@ -44,3 +44,15 @@ function deactivateClick() {
     firstBox.removeEventListener('click', showNumber);
     secondBox.removeEventListener('click', showNumber);
 }
+
+// Hide number
+
+function hideNumber() {
+    lock = true;
+    setTimeout(() => {
+        firstBox.classList.remove('show');
+        secondBox.classList.remove('show');
+
+        lock = false;
+    }, 1000);
+}
