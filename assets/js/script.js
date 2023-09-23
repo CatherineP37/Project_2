@@ -37,3 +37,10 @@ function match() {
 
     hideNumber();
 }
+
+// Deactivate click 
+
+function deactivateClick() {
+    firstBox.removeEventListener('click', showNumber);
+    secondBox.removeEventListener('click', showNumber);
+}
