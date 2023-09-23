@@ -56,3 +56,7 @@ function hideNumber() {
         lock = false;
     }, 1000);
 }
+
+// forEach method to apply the showNumber function to the boxes on click
+
+boxes.forEach(box => box.addEventListener('click', showNumber));
