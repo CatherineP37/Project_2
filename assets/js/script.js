@@ -8,7 +8,7 @@ let firstBox, secondBox;
 boxes.forEach(function (box) {
     let randomNumber = Math.floor(Math.random() * 20);
     box.style.order = randomNumber;
-)};
+});
 
 
 // Show number on click and find matches
