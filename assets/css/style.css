@@ -78,12 +78,10 @@ main {
 
 .show {
     background-color: #ffffff;
-    color: #113d40:
 }
 
 .hide {
     background-color: #113d40;
-    color: #113d40;
 }
 
 /* Media query: tablets */
