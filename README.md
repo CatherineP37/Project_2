@@ -38,9 +38,9 @@ Here is the result:
 
 - [CSS Test](https://jigsaw.w3.org/css-validator/validator)
 
-Here is the result of the first CSS test:
+Here is the result of the CSS test:
 
-![CSS test result](assets/images/1st_css_test.jpeg)
+![CSS test result](assets/images/css_test.jpeg)
 
 -[Javascript test](https://extendsclass.com/javascript-fiddle.html)
 
@@ -48,7 +48,7 @@ Here is the result of the first CSS test:
 
 - Lighthouse in Google devtools
 
-![Lighthouse test result](assets/images/lighthouse_test.jpeg)
+![Lighthouse test result](assets/images/lighthouse_test.png)
 
 ## Bugs
 
