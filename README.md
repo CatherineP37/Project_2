@@ -42,7 +42,7 @@ Here is the result of the CSS test:
 
 ![CSS test result](assets/images/css_test.jpeg)
 
-- ![Javascript test](https://extendsclass.com/javascript-fiddle.html)
+- [Javascript test](https://extendsclass.com/javascript-fiddle.html)
 
 ![Javascript test result](assets/images/javascript_test.png)
 
