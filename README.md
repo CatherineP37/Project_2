@@ -16,7 +16,7 @@ The description says what type of game it is and how to play it.
 
 The game grid contains the boxes that the player selects.
 
-![Game grid](assets/images/game_grid.jpege)
+![Game grid](assets/images/game_grid.jpeg)
 
 ### New Game Button
 
