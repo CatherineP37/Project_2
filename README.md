@@ -50,7 +50,7 @@ Here is the result of the CSS test:
 
 Here is the result of the JavaScript test:
 
-![Javascript test result](assets/images/javascript_test.png)
+![Javascript test result](assets/images/javascript_test.jpeg)
 
 - Lighthouse in Google devtools
 
