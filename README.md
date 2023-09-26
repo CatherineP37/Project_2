@@ -79,7 +79,7 @@ Here is the deployed site:
 
 ## Credits
 
-I took some inspiration from the following projects:
+I took inspiration from the following projects:
 
 [Marina Ferreira's memory game](https://marina-ferreira.github.io/tutorials/js/memory-game/)
 
