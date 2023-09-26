@@ -20,7 +20,7 @@ The game grid contains the boxes that the player selects.
 
 ### Message sent when game is won
 
-![Message](assets/images/message.jpeg)
+![Message](assets/images/message.png)
 
 ### New game button
 
