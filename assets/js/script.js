@@ -35,7 +35,7 @@ function match() {
     if (firstBox.innerHTML === secondBox.innerHTML) {
         deactivateClick();
         matchCounter++;
-        if (matchCounter >= 10) setTimeout(() => alert('You won, well done!'), 2000);
+        if (matchCounter >= 10) setTimeout(() => alert('You won, well done!'), 1000);
         return;
     }
 
