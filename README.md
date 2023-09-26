@@ -58,9 +58,13 @@ Here is the result of the JavaScript test:
 
 ## Bugs
 
-This project had many bugs throughout its development. It took a long time and lots of trial and error to get the game working properly.
+This project had many bugs throughout its development. It took a long time and lots of trial and error to get the game working properly. Here are examples of the bugs:
 
-One of the issues was that after the first box was clicked the second box couldn't be immediately clicked. This issue was resolved by changing the code.
+- The boxes couldn't be clicked but that problem was solved
+
+- After the first box was clicked the second box couldn't be immediately clicked. This issue was solved by changing the code.
+  
+There are no current bugs in the code.
 
 ## Deployment
 
