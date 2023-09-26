@@ -36,7 +36,7 @@ The game was tested with the following tools:
 
 - [HTML Test](https://validator.w3.org/)
 
-Here is the result of the HTML test:
+I tried to remove the forward slashes from the elements with no closing tag but they were automatically added back. Here is the result of the HTML test:
 
 ![HTML test result](assets/images/html_test.jpeg)
 
