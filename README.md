@@ -20,6 +20,8 @@ The game grid contains the boxes that the player selects.
 
 ### Message sent when game is won
 
+The message that's given when the game is complete lets the player know that the game is over and that they've won. It also congratulates them for winning the game.
+
 ![Message](assets/images/message.png)
 
 ### New game button
