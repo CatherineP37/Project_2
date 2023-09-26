@@ -2,6 +2,8 @@ const boxes = document.querySelectorAll('.box');
 let numberShowing = false;
 let lock = false;
 let firstBox, secondBox;
+let matchCounter = 0;
+
 
 // Shuffle boxes
 
@@ -32,6 +34,8 @@ function showNumber() {
 function match() {
     if (firstBox.innerHTML === secondBox.innerHTML) {
         deactivateClick();
+        matchCounter++;
+        if (matchCounter >= 10) setTimeout(() => alert('You won, well done!'), 2000);
         return;
     }
 
