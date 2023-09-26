@@ -12,13 +12,17 @@ The description says what type of game it is and how to play it.
 
 ![Description](assets/images/description.jpeg)
 
-### Game Grid
+### Game grid
 
 The game grid contains the boxes that the player selects.
 
 ![Game grid](assets/images/game_grid.jpeg)
 
-### New Game Button
+### Message sent when game is won
+
+![Message](assets/images/message.jpeg)
+
+### New game button
 
 The new game button starts the game again from the beginning.
 
@@ -32,7 +36,7 @@ The game was tested with the following tools:
 
 - [HTML Test](https://validator.w3.org/)
 
-Here is the result:
+Here is the result of the HTML test:
 
 ![HTML test result](assets/images/html_test.jpeg)
 
@@ -42,7 +46,9 @@ Here is the result of the CSS test:
 
 ![CSS test result](assets/images/css_test.jpeg)
 
-- [Javascript test](https://extendsclass.com/javascript-fiddle.html)
+- [Javascript test](https://jshint.com/)
+
+Here is the result of the JavaScript test:
 
 ![Javascript test result](assets/images/javascript_test.png)
 
