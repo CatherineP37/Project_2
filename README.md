@@ -4,6 +4,8 @@ This memory game is a simple game to help train short-term memory. It consists o
 
 ![Responsive Mockup](assets/images/amiresponsive.jpeg)
 
+## UX design
+
 ## Features
 
 ### Description
