@@ -4,7 +4,66 @@ This memory game is a simple game to help train short-term memory. It consists o
 
 ![Responsive Mockup](assets/images/amiresponsive.jpeg)
 
-## UX design
+## MVP
+
+The following must be included in the project:
+
+- Title
+- Description
+- Grid
+- Clickable boxes
+- Numbers
+- New game button
+
+## User research
+
+### Who are the users?
+
+- People who want to improve their short-term memory
+- People who enjoy playing simple computer games
+
+### User research goals
+
+- Understand user goals when playing computer games
+- Understand user pain points when playing computer games
+
+### User interviews
+
+For the qualitative research, I interviewed people who are interested in brain training games.
+
+### Surveys
+
+For the quantitative research, I carried out a survey to find out about what players expect from a brain training game.
+
+### Key insights from the user research
+
+- Users would like to have clear instructions for the game
+- Users would like the game to have a simple layout that is easy to understand
+- Users would like to have a success message after successfully completing the game
+
+## User stories
+
+### User story 1
+
+As a game player, I want clear instructions about how to play the game
+
+### User story 2
+
+As a game player, I want to know when I have found a matching pair of numbers
+
+### User story 3
+
+As a game player, I want a success message letting me know that I have successfully completed the game
+
+### User story 4
+
+As a game player, I want the chance to play the game again after completing it
+
+## Wireframes
+
+Here are some of the low fidelity wireframes for the mobile screens:
+
+![Wireframes](assets/images/wireframing.png)
 
 ## Features
 
