@@ -88,6 +88,8 @@ Here are some high fidelity wireframes:
 
 ## Interactive Figma prototype
 
+I made a interactive prototype in Figma and carried out usability tests with it. Here is a video of the prototype being tested:
+
 https://github.com/user-attachments/assets/88aa51fe-1042-46c6-bd31-d3b01f5fe614
 
 ## Features
