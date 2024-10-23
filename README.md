@@ -71,6 +71,10 @@ Here are some high fidelity wireframes:
 
 ![Wireframes](assets/images/hf_wireframes.png)
 
+## Interactive Figma prototype
+
+https://github.com/user-attachments/assets/88aa51fe-1042-46c6-bd31-d3b01f5fe614
+
 ## Features
 
 ### Description
