@@ -116,6 +116,12 @@ The new game button starts the game again from the beginning.
 
 ![New game button](assets/images/button.jpeg)
 
+# Build
+
+I built this game with HTML, CSS and JavaScript. Here is the link to the deployed site:
+
+[Deployed Site](https://catherinep37.github.io/Project_2/)
+
 ## Testing
 
 The game was tested with the following tools:
@@ -160,10 +166,6 @@ To deploy the site, I went to the settings tab of my GitHub repo and selected pa
 
 I made sure that the source was set to 'Deploy from Branch', the main branch was selected and the folder was set to / (root). Then I clicked save and waited for
 the build to finish. Finally I clicked on 'github-pages'.
-
-Here is the deployed site:
-
-[Deployed Site](https://catherinep37.github.io/Project_2/)
 
 ## Credits
 
