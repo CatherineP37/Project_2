@@ -63,7 +63,7 @@ As a game player, I want the chance to play the game again after completing it
 
 Here are some of the low fidelity wireframes for the mobile screens:
 
-![Wireframes](assets/images/wireframing.png)
+![Wireframes](assets/images/wireframes.png)
 
 ## Features
 
