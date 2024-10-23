@@ -61,9 +61,15 @@ As a game player, I want the chance to play the game again after completing it
 
 ## Low fidelity wireframes
 
-Here are some of the low fidelity wireframes:
+Here are some low fidelity wireframes:
 
 ![Wireframes](assets/images/wireframes.png)
+
+## High fidelity wireframes
+
+Here are some high fidelity wireframes:
+
+![Wireframes](assets/images/hf_wireframes.png)
 
 ## Features
 
