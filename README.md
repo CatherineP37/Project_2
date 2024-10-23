@@ -4,6 +4,21 @@ This memory game is a simple game to help train short-term memory. It consists o
 
 ![Responsive Mockup](assets/images/amiresponsive.jpeg)
 
+## Table of contents
+
+- [MVP](#mvp)
+- [User research](#user-research)
+- [User stories](#user-stories)
+- [Low fidelity wireframes](#low-fidelity-wireframes)
+- [High fidelity wireframes](#high-fidelity-wireframes)
+- [Interactive Figma prototype](#interactive-figma-prototype)
+- [Features](#features)
+- [Build](#build)   
+- [Testing](#testing)
+- [Bugs](#bugs)   
+- [Deployment](#deployment)
+- [Credits](#credits)
+
 ## MVP
 
 The following must be included in the project:
