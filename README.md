@@ -59,9 +59,9 @@ As a game player, I want a success message letting me know that I have successfu
 
 As a game player, I want the chance to play the game again after completing it
 
-## Wireframes
+## Low fidelity wireframes
 
-Here are some of the low fidelity wireframes for the mobile screens:
+Here are some of the low fidelity wireframes:
 
 ![Wireframes](assets/images/wireframes.png)
 
