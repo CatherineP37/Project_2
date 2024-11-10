@@ -2,7 +2,7 @@
 
 This memory game is a simple game to help train short-term memory. It consists of a grid with blank coloured boxes. The number of the box is shown when the player selects the box. The number remains shown until the player selects the next box. If the numbers are a match they remain shown. However if the numbers are not a match they are hidden again.
 
-![Responsive Mockup](assets/images/2.webp)
+![Prototype](assets/images/2.webp)
 
 ## Table of contents
 
